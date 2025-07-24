@@ -18,7 +18,6 @@
 ## 🚀 Current Focus
 
 ```yaml
-current_project: "AI Workout Pose Detector"
 learning_stack: ["Deep Learning", "Flutter", "Firebase"]
 interests: ["Computer Vision", "Neural Networks", "Mobile Development"]
 available_for: "Collaboration on AI/ML projects"

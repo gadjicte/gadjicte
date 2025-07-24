@@ -101,7 +101,11 @@ fun_fact: "I debug in dreams sometimes 🐛💭"
 ## 🔥 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/gadjicte/gadjicte/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gadjicte/gadjicte/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gadjicte/gadjicte/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gadjicte/gadjicte/output/github-snake.svg">
+  </picture>
 </div>
 
 ---

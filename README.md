@@ -2,7 +2,7 @@
 
 # 👨‍💻 Yousef Fady
 
-### `Computer Science Student` • `AI Enthusiast` • `Problem Solver`
+### `Bio AI student` • `AI Enthusiast` • `Problem Solver`
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=AI+%26+Machine+Learning+Explorer;Computer+Vision+Developer;Deep+Learning+Enthusiast;Code+%7C+Create+%7C+Innovate" alt="Typing SVG" />
 
@@ -31,7 +31,7 @@ fun_fact: "I debug in dreams sometimes 🐛💭"
 <img align="right" width="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF">
 
 🔬 **Research Areas**: Computer Vision, Deep Learning, AI Applications  
-🎓 **Education**: Computer Science Student  
+🎓 **Education**: Bio AI student  
 💡 **Passion**: Building intelligent systems that solve real-world problems  
 🎯 **Goal**: Contributing to the future of AI technology  
 📍 **Location**: Always in the cloud ☁️  

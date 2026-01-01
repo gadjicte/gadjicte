@@ -128,7 +128,7 @@ fun_fact: "I debug in dreams sometimes 🐛💭"
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🎵 Coding Soundtrack
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/63aOMpGXakIizfhsXu6p9E?si=2577b0f9396443c1)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/41nYiLgM8gubBXbFI5Qznw?si=eca429db9af94e29)
 
 </div>
 
